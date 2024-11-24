@@ -4,13 +4,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        chocolate: '#482E2E',
-        'mint-green': '#77FF8B',
-        'bright-yellow': '#FFD900',
-        peach: '#FF7777',
+        chocolate: 'rgb(72, 46, 46)',
+        'mint-green': 'rgba(119, 255, 139, 58%)',
+        'bright-yellow': 'rgba(255, 217, 0, 58%)',
+        peach: 'rgba(255, 119, 119,58%)',
         'light-purple': 'rgba(162, 141, 209, 26%)',
-        'medium-purple': '#5500FF',
-        'strong-purple': '#0004FF'
+        'medium-purple': 'rgba(85, 0, 255, 10%)',
+        'strong-purple': 'rgba(0, 4, 255, 34%)'
       },
       fontFamily: {
         quicksand: ["Quicksand", 'sans-serif'],
