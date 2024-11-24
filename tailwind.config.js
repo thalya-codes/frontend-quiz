@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         chocolate: 'rgb(72, 46, 46)',
+        'translucent-chocolate': 'rgb(72, 46, 46, 88%)',
         'mint-green': 'rgba(119, 255, 139, 58%)',
         'bright-yellow': 'rgba(255, 217, 0, 58%)',
         peach: 'rgba(255, 119, 119,58%)',
