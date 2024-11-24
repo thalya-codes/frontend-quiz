@@ -24,6 +24,12 @@ export default {
       },
       backgroundPosition: {
         'right-blob-position': '108% 100%'
+      },
+      borderRadius: {
+        md: '4px'
+      },
+      letterSpacing: {
+        '1': '1px'
       }
     },
   },
