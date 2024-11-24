@@ -8,7 +8,7 @@ export default {
         'mint-green': '#77FF8B',
         'bright-yellow': '#FFD900',
         peach: '#FF7777',
-        'light-purple': '#A28DD1',
+        'light-purple': 'rgba(162, 141, 209, 26%)',
         'medium-purple': '#5500FF',
         'strong-purple': '#0004FF'
       },
@@ -21,6 +21,9 @@ export default {
       boxShadow: {
         'elevation-1': '0px 4px 37px 0px rgba(0, 0, 0, 0.25)',
         'elevation-2': '0px 4px 4px 0px rgba(0, 0, 0, 0.25)'
+      },
+      backgroundPosition: {
+        'right-blob-position': '108% 100%'
       }
     },
   },
