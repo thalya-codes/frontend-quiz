@@ -12,7 +12,8 @@ export default {
         'light-purple': 'rgba(162, 141, 209, 26%)',
         'medium-purple': 'rgba(85, 0, 255, 10%)',
         'strong-purple': 'rgba(0, 4, 255, 34%)',
-        'translucent-white': 'rgba(254, 254, 254, 68%)'
+        'translucent-white': 'rgba(254, 254, 254, 68%)',
+        'medium-gray': 'rgb(95, 90, 90)'
       },
       fontFamily: {
         quicksand: ["Quicksand", 'sans-serif'],
